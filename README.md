@@ -12,7 +12,7 @@ Source code: [desktop version](https://github.com/dtsudo/DT-Danmaku-2) or [brows
 
 A prototype danmaku shmup. Play on [GitHub pages](https://dtsudo.github.io/DT-Danmaku-Web-Browser-Version-Demo/DTDanmaku.html?fps=30).
 
-Source code: [desktop version](https://github.com/dtsudo/DT-Danmaku) or [Browser version](https://github.com/dtsudo/DT-Danmaku-Web-Browser-Version)
+Source code: [desktop version](https://github.com/dtsudo/DT-Danmaku) or [browser version](https://github.com/dtsudo/DT-Danmaku-Web-Browser-Version)
 
 ### DT Sudoku
 
