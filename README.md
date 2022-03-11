@@ -2,6 +2,12 @@ Hello! I'm a software developer making free/open source games on GitHub!
 
 # Games
 
+### Chess Comp Stomp with Hacks
+
+![screenshot](ChessCompStompScreenshot.png)
+
+A game where you use hacks to win against the AI.
+
 ### DT Danmaku 2
 
 ![screenshot](DTDanmaku2Screenshot.png)
