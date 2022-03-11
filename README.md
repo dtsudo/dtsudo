@@ -8,6 +8,8 @@ Hello! I'm a software developer making free/open source games on GitHub!
 
 A game where you use hacks to win against the AI.
 
+Source code: [desktop version](https://github.com/dtsudo/Chess-Comp-Stomp-with-Hacks-Desktop-Version) or [browser version](https://github.com/dtsudo/Chess-Comp-Stomp-with-Hacks-Web-Browser-Version)
+
 ### DT Danmaku 2
 
 ![screenshot](DTDanmaku2Screenshot.png)
