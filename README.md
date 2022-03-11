@@ -8,7 +8,7 @@ Hello! I'm a software developer making free/open source games on GitHub!
 
 A game where you use hacks to win against the AI.
 
-Play on [Newgrounds](https://www.newgrounds.com/portal/view/835619).
+Play on [Newgrounds](https://www.newgrounds.com/portal/view/835619) or [itch.io](https://dtsudo.itch.io/chess-comp-stomp-with-hacks).
 
 Source code: [desktop version](https://github.com/dtsudo/Chess-Comp-Stomp-with-Hacks-Desktop-Version) or [browser version](https://github.com/dtsudo/Chess-Comp-Stomp-with-Hacks-Web-Browser-Version)
 
