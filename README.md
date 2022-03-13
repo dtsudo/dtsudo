@@ -12,6 +12,16 @@ Play on [Newgrounds](https://www.newgrounds.com/portal/view/835619) or [itch.io]
 
 Source code: [desktop version](https://github.com/dtsudo/Chess-Comp-Stomp-with-Hacks-Desktop-Version) or [browser version](https://github.com/dtsudo/Chess-Comp-Stomp-with-Hacks-Web-Browser-Version)
 
+### SuperTux Advance - web port
+
+![screenshot](SuperTuxAdvanceScreenshot.png)
+
+I ported KelvinShadewing's [SuperTux Advance](https://github.com/KelvinShadewing/supertux-advance) to run in a web browser.
+
+Play on [itch.io](https://dtsudo.itch.io/supertux-advance-beta-web-version-port).
+
+Source code: [https://github.com/dtsudo/SuperTux-Advance-Web-Port](https://github.com/dtsudo/SuperTux-Advance-Web-Port)
+
 ### DT Danmaku 2
 
 ![screenshot](DTDanmaku2Screenshot.png)
