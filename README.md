@@ -2,6 +2,16 @@ Hello! I'm a software developer making free/open source games on GitHub!
 
 # Games
 
+### Tux Planet Speedrun Any%
+
+![screenshot](TuxPlanetSpeedrunScreenshot.png)
+
+A fangame of SuperTux and SuperTux Advance. Use save states and other powers to win!
+
+Play on [Newgrounds](https://www.newgrounds.com/portal/view/857405)
+
+Source code: [https://github.com/dtsudo/Tux-Planet-Speedrun-Any-Percent](https://github.com/dtsudo/Tux-Planet-Speedrun-Any-Percent)
+
 ### Chess Comp Stomp with Hacks
 
 ![screenshot](ChessCompStompScreenshot.png)
