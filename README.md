@@ -1,4 +1,4 @@
-Hello! I'm a software developer making free/open source games on GitHub!
+Hello! I'm a software developer making free/open source games on GitHub! 
 
 # Games
 
