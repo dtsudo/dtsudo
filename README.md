@@ -54,6 +54,14 @@ Source code: [desktop version](https://github.com/dtsudo/DT-Sudoku) or [browser 
 
 # Other things
 
+### Lichess Bot
+
+I wrote a Lichess bot that intentionally hangs its queen, but then plays Stockfish moves afterwards. (For novice chess players, the bot is still challenging to defeat because novices generally can't win against Stockfish even when up a full queen.)
+
+The codebase is designed as a static site. This means that if you have a Lichess bot account, you can run the bot without installing anything. Just go to https://dtsudo.github.io/Dtsudo-Queen-Sacrifice-Bot/index.html and provide a Lichess OAuth token; the bot will show up on Lichess and accept challenges from other players as long as the browser tab stays open.
+
+Source code: https://github.com/dtsudo/Dtsudo-Queen-Sacrifice-Bot
+
 ### Halite AI
 
 [Halite](https://github.com/HaliteChallenge/Halite) was a programming competition held in 2016.
